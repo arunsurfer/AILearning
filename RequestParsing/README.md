@@ -1,0 +1,1 @@
+Code in this folder, will give you an overview of how to parse requests in a web application usig Python. It covers various methods and libraries that can be used to handle incoming requests, extract parameters, and manage data effectively.
