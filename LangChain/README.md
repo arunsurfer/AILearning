@@ -24,3 +24,8 @@ What can you do with Langchain?
 - **Data Analysis**: Analyze and extract insights from text data using language models.
 - **Search and Retrieval**: Implement search functionalities that leverage language models to understand user queries and retrieve relevant information.
 - **Automation**: Automate tasks by integrating language models with external tools and APIs, enabling complex workflows.
+
+
+
+![Intro](https://github.com/user-attachments/assets/3e08fa63-2d0b-4a64-b433-1f39a8ad35ef)
+
