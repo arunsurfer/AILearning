@@ -1,4 +1,4 @@
-Langchain is a framework for building applications powered by language models. It provides a set of tools and abstractions to help developers create complex applications that can understand and generate human-like text.
+![image](https://github.com/user-attachments/assets/d9dcfb96-9e1f-4d6f-a98a-fa8bcefacdba)Langchain is a framework for building applications powered by language models. It provides a set of tools and abstractions to help developers create complex applications that can understand and generate human-like text.
 
 Why use Langchain?
 - **Modular Design**: Langchain is designed to be modular, allowing developers to mix and match components as needed.
@@ -24,3 +24,8 @@ What can you do with Langchain?
 - **Data Analysis**: Analyze and extract insights from text data using language models.
 - **Search and Retrieval**: Implement search functionalities that leverage language models to understand user queries and retrieve relevant information.
 - **Automation**: Automate tasks by integrating language models with external tools and APIs, enabling complex workflows.
+
+
+
+![Intro](https://github.com/user-attachments/assets/3e08fa63-2d0b-4a64-b433-1f39a8ad35ef)
+
