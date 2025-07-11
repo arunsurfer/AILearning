@@ -3,4 +3,7 @@ This repo is a collection of resource files collected as part of AI learning and
 - **LangChain**: Examples and templates for building applications using LangChain.
 
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=arunsurfer.AILearning)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arunsurfer)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunsurfer&show_icons=true)
