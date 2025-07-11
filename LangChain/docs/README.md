@@ -29,3 +29,19 @@ What can you do with Langchain?
 
 ![Intro](https://github.com/user-attachments/assets/3e08fa63-2d0b-4a64-b433-1f39a8ad35ef)
 
+
+# LangChain AI Assistant
+
+This project is a conversational agent built with LangChain, OpenAI, and ChromaDB. It supports memory, tool integration, and semantic retrieval.
+
+## Features
+- Conversational memory with ChromaDB
+- Calculator tool integration
+- Retrieval-augmented generation (RAG)
+- Streamlit UI for interaction
+
+## Setup
+```bash
+pip install langchain chromadb openai streamlit
+
+
