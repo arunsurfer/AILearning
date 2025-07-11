@@ -14,3 +14,4 @@ An interactive Python-based conversational agent using LangChain, OpenAI’s GPT
 
 ---
 
+<img width="856" height="734" alt="image" src="https://github.com/user-attachments/assets/9118be1e-6633-43a6-8df6-8d6a1c064a71" />
